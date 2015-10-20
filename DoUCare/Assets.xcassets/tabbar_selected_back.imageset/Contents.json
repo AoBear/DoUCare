@@ -1,0 +1,50 @@
+{
+  "images" : [
+    {
+      "resizing" : {
+        "mode" : "9-part",
+        "center" : {
+          "mode" : "tile",
+          "width" : 14,
+          "height" : 13
+        },
+        "cap-insets" : {
+          "bottom" : 13,
+          "top" : 14,
+          "right" : 15,
+          "left" : 11
+        }
+      },
+      "idiom" : "universal",
+      "filename" : "tabbar_selected_back.png",
+      "scale" : "1x"
+    },
+    {
+      "resizing" : {
+        "mode" : "9-part",
+        "center" : {
+          "mode" : "tile",
+          "width" : 20,
+          "height" : 17
+        },
+        "cap-insets" : {
+          "bottom" : 26,
+          "top" : 37,
+          "right" : 32,
+          "left" : 28
+        }
+      },
+      "idiom" : "universal",
+      "filename" : "tabbar_selected_back@2x.png",
+      "scale" : "2x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "version" : 1,
+    "author" : "xcode"
+  }
+}
